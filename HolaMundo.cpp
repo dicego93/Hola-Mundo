@@ -2,5 +2,5 @@
 
 public int llamarTele(){
 	
-	return "Television encendida MODIFICADA"
+	return "Television encendida MODIFICADA_2"
 }
